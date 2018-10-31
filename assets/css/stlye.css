@@ -1,13 +1,61 @@
+
+
+    body {
+    background-image: url("../images/houndstooth-pattern/houndstooth-pattern.png");
+    background-size: auto;
+  }
+
 html {
     box-sizing: border-box;
   }
   *, *:before, *:after {
     box-sizing: inherit;
     overflow: auto;
+    
+  } 
+
+  #navbar {
+      background-color: #ffffff;
+      border-bottom: #cccccc solid;
+      margin-top: 0px;
+
+  }
+  #name {
+      background-color: #4aaaa5;
+      color: #ffffff;
+      float: left;
+      margin-left: 10%;
+      height:60px;
+      padding-right: 25px;
+      padding-left:25px;
+      padding-top: 10px;
+      font-size: 35px;
+      font-family: 'Georgia', Times, Times New Roman, serif;
+      
+
+  }
+  #nav {
+      color: #777777;
+      float: right;
+      margin-right: 10%;
+      margin-top:20px;
+  }
+  #about{
+      padding-right: 15px;
+      border-right:  #777777 solid;
+      border-width: 1px;   
   }
 
-
-
+  #portfolio{
+    padding-right: 15px;
+    padding-left: 15px;
+    border-right:  #777777 solid;
+    border-width: 1px;
+}
+#contact{
+    padding-right: 15px;
+    padding-left: 15px;
+}
 
   /*
   Colors Pro-tip: Use the Eye Dropper Chrome extension to find the colors used on web pages.
