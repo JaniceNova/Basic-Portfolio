@@ -39,11 +39,15 @@ html {
       float: right;
       margin-right: 10%;
       margin-top:20px;
+      font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+      
   }
   #about{
       padding-right: 15px;
       border-right:  #777777 solid;
       border-width: 1px;   
+      color: #777777;
+      text-decoration: none;
   }
 
   #portfolio{
@@ -51,10 +55,14 @@ html {
     padding-left: 15px;
     border-right:  #777777 solid;
     border-width: 1px;
+    color: #777777;
+    text-decoration: none;
 }
 #contact{
     padding-right: 15px;
     padding-left: 15px;
+    color: #777777;
+    text-decoration: none;
 }
 
   /*
