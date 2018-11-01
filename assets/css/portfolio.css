@@ -1,0 +1,87 @@
+.portbody {
+    width: 960px;
+    background-color: #ffffff;
+    border: #dddddd solid;
+    border-width: 1px;
+    margin-top:80px;
+    margin-left:10%;
+    margin-right:10%;
+    margin-bottom:10%;
+    
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    color:#777777;
+    float: left; 
+    padding-right:20px;
+    height:600px;
+
+}
+
+#portheader {
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    color:#4aaaa5;
+    border-bottom: #dddddd solid;
+    padding-bottom: 20px;
+    margin-left:20px;
+    margin-right:20px;
+    
+
+}
+
+
+#a {
+   width:240px;
+   height:150px;
+   float:left;
+   
+}
+#ab {
+    margin-left:20px;
+    width: 200px; 
+    height: 150px;
+}
+#b {
+    background-color: #4aaaa5;
+    color: #ffffff;
+    float: left;
+    height:50px;
+    width: 200px;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    position: absolute;
+    margin-left: 20px;
+    padding:15px;
+    font-size: 20px;
+    text-align: center;
+    z-index: 100;  
+    bottom:300px;
+  
+
+}
+#c {
+    width:240px;
+    height:150px;
+    float: left;
+
+    
+    
+ }
+ #cd {
+margin-left:20px;
+     width: 200px; 
+     height: 150px;
+ }
+ #d {
+     background-color: #4aaaa5;
+     color: #ffffff;
+     float: left;
+     height:50px;
+     width: 200px;
+     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+     position: absolute;
+     margin-left: 20px;
+     padding:15px;
+     font-size: 20px;
+     text-align: center;
+     z-index: 100;  
+     bottom:300px;
+
+ }
