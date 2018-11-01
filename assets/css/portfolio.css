@@ -82,7 +82,7 @@ margin-left:20px;
      font-size: 20px;
      text-align: center;
      z-index: 100;  
-     bottom:120px;
+     bottom:300px;
 
  }
 
@@ -114,7 +114,7 @@ margin-left:20px;
      font-size: 20px;
      text-align: center;
      z-index: 100;  
-     bottom:120px;
+     bottom:140px;
    
  
  }
@@ -144,6 +144,36 @@ margin-left:20px;
       font-size: 20px;
       text-align: center;
       z-index: 100;  
-      bottom:300px;
+      bottom:140px;
  
   }
+
+  #i {
+    width:240px;
+    height:150px;
+    float: left;
+
+    
+    
+ }
+ #ij {
+margin-left:20px;
+     width: 200px; 
+     height: 150px;
+ }
+ #j {
+    background-color: #4aaaa5;
+    color: #ffffff;
+    float: left;
+    height:50px;
+    width: 200px;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    position: absolute;
+    margin-left: 20px;
+    padding:15px;
+    font-size: 20px;
+    text-align: center;
+    z-index: 100;  
+    bottom:-30px;
+
+}
